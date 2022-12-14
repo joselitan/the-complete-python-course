@@ -1,0 +1,3 @@
+fn+shift()
+shift+alt(option){}
+fn+alt(OPTION) []
