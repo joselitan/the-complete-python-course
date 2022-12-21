@@ -25,13 +25,13 @@ for student in students:
     print(f'Student: {name}')
     operation = input("Enter 'average', 'total', or 'top':")
 
-    # if operation == "average":
-    #     print(avg(grades))
-    # elif operation == "total":
-    #     print(total(grades))
-    # elif operation == "top":
-    #     print(top(grades))
-    #
+    if operation == "average":
+        print(avg(grades))
+    elif operation == "total":
+        print(total(grades))
+    elif operation == "top":
+        print(top(grades))
+
 
 
 
