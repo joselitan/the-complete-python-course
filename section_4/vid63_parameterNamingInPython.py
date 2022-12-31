@@ -5,3 +5,6 @@ class Movie:
 
 
 print(Movie('The Matrix', 1994).name)
+
+moveName = Movie('The Matrix', 1994)
+print(moveName.year)
